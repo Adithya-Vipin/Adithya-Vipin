@@ -1,31 +1,109 @@
-<h1 align="center">Hi 👋, I'm Adithya Vipin</h1>
-<h3 align="center">💻 Frontend Developer | 🤖 Machine Learning Enthusiast | 📊 Data Analyst</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Industry-grade case projects with **Finlatics**, analyzing datasets from **Banking, Digital Marketing, and Media & Technology** to derive insights and build solutions.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,100:302B63&height=200&section=header&text=Adithya%20Vipin&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AIML%20Undergraduate%20|%20ML%20%26%20Data%20Science%20Intern%20Aspirant&descAlignY=65&descSize=18" width="100%"/>
 
-- 🌱 I’m currently learning ****Frontend Development** (React, Tailwind, GSAP) & **Backend Development** (Node.js, Express).**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Reinforcement+Learning+Enthusiast;Data+Analyst+%26+Researcher;IEEE+Co-Author+(2025)" alt="Typing SVG" />
 
-- 👯 I’m looking to collaborate on **Open-source projects in **Data Analysis** and **Frontend Development** (React, Next.js, data dashboards, visualizations).**
+</div>
 
-- 🤝 I’m looking for help with ****Backend development** (API design, databases, authentication).**
+<br>
 
-- 👨‍💻 All of my projects are available at [GitHub] [https://github.com/Adithya-Vipin](https://github.com/Adithya-Vipin)
+## 🔥 Featured Projects
 
-- 📫 How to reach me **adithyavipinakumar@gmail.com**
+<table>
+<tr>
+<td width="50%">
 
-- 📄 Know about my experiences [Resume] [https://drive.google.com/file/d/1QgIP1CpRP4MD7_ug_JotgVQ-lZT4roxK/view?usp=sharing](https://drive.google.com/file/d/1QgIP1CpRP4MD7_ug_JotgVQ-lZT4roxK/view?usp=sharing)
+### 🏎️ F1 Pit-Stop Strategy Optimizer
+ML-based simulation optimizing F1 pit-stop strategies using tyre degradation modeling and Monte Carlo analysis.
 
-- ⚡ Fun fact **I debug with snacks 🍕**
+`Python` `Monte Carlo` `Optimization`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adithya vipin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya vipin" height="30" width="40" /></a>
-<a href="https://instagram.com/adithya.vip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya.vip" height="30" width="40" /></a>
-</p>
+</td>
+<td width="50%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🚁 Smart Drone Crop Disease Detection
+UAV+IoT+Edge AI pipeline with YOLOv8 (TensorRT INT8) on Jetson, fused with climate risk modeling.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya-vipin&show_icons=true&locale=en&layout=compact" alt="adithya-vipin" /></p>
+`YOLOv8` `Jetson` `XGBoost`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya-vipin&show_icons=true&locale=en" alt="adithya-vipin" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 Autonomous Vehicle RL Simulation
+CARLA-based driving sim with custom PPO environment — 87% collision reduction, 5.4× reward improvement.
+
+`CARLA` `PPO` `Reinforcement Learning`
+
+</td>
+<td width="50%">
+
+### 🤖 Plagiarism Detection RPA Bot
+End-to-end UiPath pipeline integrating Copyleaks API, automated scoring & email notifications.
+
+`UiPath` `RPA` `API Integration`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📄 Research & Publications
+
+> **CUDA-Accelerated Student Performance Prediction Using Deep Neural Networks**
+> *IEEE Conference, 2025 — Under Review | Co-Author*
+>
+> Proposed **AdvancedStudentNet**: 88.44% accuracy · F1-Score 0.924 · 15.4× GPU inference speedup at 1M predictions
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adithya-Vipin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-Vipin&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Vipin&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adithya-Vipin&theme=tokyo-night&hide_border=true" width="98%" />
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-vipin-7b6a44281)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adithya.vip)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyavipinakumar@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
+
+</div>
