@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2b0a3d&height=180&section=header&text=Adithya%20Vipin&fontSize=46&fontColor=A371F7&fontAlignY=38&desc=AIML%20Undergraduate%20%7C%20ML%20%26%20Data%20Science%20Intern%20Aspirant&descAlignY=58&descSize=16&fontAlign=50"/>
 
+# Adithya Vipin
+### AIML Undergraduate | ML & Data Science Intern Aspirant
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=A371F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+this+is+Adithya+Vipin;Machine+Learning+and+Reinforcement+Learning;Data+Analysis+and+Visualization;IEEE+Co-Author%2C+2025;Open+to+ML+and+Data+Science+Internships"/>
@@ -17,7 +20,7 @@
 <td width="50%" valign="top">
 <br>
 
-**🏎️ F1 Pit-Stop Strategy Optimizer**
+**◆ F1 Pit-Stop Strategy Optimizer**
 
 ML-based simulation optimizing F1 pit-stop strategies using tyre degradation modeling and Monte Carlo analysis.
 
@@ -28,7 +31,7 @@ ML-based simulation optimizing F1 pit-stop strategies using tyre degradation mod
 <td width="50%" valign="top">
 <br>
 
-**🚁 Smart Drone Crop Disease Detection**
+**▣ Smart Drone Crop Disease Detection**
 
 UAV + IoT + Edge AI pipeline with YOLOv8 (TensorRT INT8) on Jetson, fused with climate risk modeling.
 
@@ -41,7 +44,7 @@ UAV + IoT + Edge AI pipeline with YOLOv8 (TensorRT INT8) on Jetson, fused with c
 <td width="50%" valign="top">
 <br>
 
-**🚗 Autonomous Vehicle RL Simulation**
+**◈ Autonomous Vehicle RL Simulation**
 
 CARLA-based driving sim with custom PPO environment — 87% collision reduction, 5.4× reward improvement.
 
@@ -52,7 +55,7 @@ CARLA-based driving sim with custom PPO environment — 87% collision reduction,
 <td width="50%" valign="top">
 <br>
 
-**🤖 Plagiarism Detection RPA Bot**
+**▶ Plagiarism Detection RPA Bot**
 
 End-to-end UiPath pipeline integrating Copyleaks API, automated scoring & email notifications.
 
@@ -112,7 +115,5 @@ End-to-end UiPath pipeline integrating Copyleaks API, automated scoring & email 
 [![Gmail](https://img.shields.io/badge/Gmail-2b0a3d?style=for-the-badge&logo=gmail&logoColor=A371F7)](mailto:adithyavipinakumar@gmail.com)
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2b0a3d&height=100&section=footer"/>
 
 </div>
