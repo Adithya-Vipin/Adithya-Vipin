@@ -1,9 +1,6 @@
 <div align="center">
 
-# Adithya Vipin
-
-### AIML Undergraduate | ML & Data Science Intern Aspirant
-**Machine Learning · Reinforcement Learning · Data Analysis · IEEE Co-Author (2025)**
+![Banner](./assets/banner.png)
 
 </div>
 
