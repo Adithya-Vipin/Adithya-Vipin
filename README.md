@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2b0a3d&amp;height=180&amp;section=header&amp;text=Adithya%20Vipin&amp;fontSize=46&amp;fontColor=A371F7&amp;fontAlignY=38&amp;desc=AIML%20Undergraduate%20%7C%20ML%20%26%20Data%20Science%20Intern%20Aspirant&amp;descAlignY=58&amp;descSize=16&amp;fontAlign=50"/>
+# Adithya Vipin
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2500&amp;pause=1200&amp;color=A371F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+this+is+Adithya+Vipin;Machine+Learning+and+Reinforcement+Learning;Data+Analysis+and+Visualization;IEEE+Co-Author%2C+2025;Open+to+ML+and+Data+Science+Internships"/>
+### AIML Undergraduate | ML & Data Science Intern Aspirant
+**Machine Learning · Reinforcement Learning · Data Analysis · IEEE Co-Author (2025)**
 
 </div>
 
