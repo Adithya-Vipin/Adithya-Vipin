@@ -94,7 +94,7 @@ Multi-agent task/travel/document assistant rebuilt solo onto local Ollama models
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Adithya-Vipin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-Vipin&theme=dark&hide_border=true&background=0d1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Adithya-Vipin&theme=dark&hide_border=true&background=0d1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" width="49%"/>
 </div>
 
 <br>
