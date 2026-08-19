@@ -24,11 +24,11 @@ ML-based simulation optimizing F1 pit-stop strategies using tyre degradation mod
 <td width="50%" valign="top">
 <br>
 
-**▣ Smart Drone Crop Disease Detection**
+**▣ Autonomous Research Agent**
 
-UAV + IoT + Edge AI pipeline with YOLOv8 (TensorRT INT8) on Jetson, fused with climate risk modeling.
+Full-stack LLM research agent (FastAPI + Next.js) that searches arXiv/Semantic Scholar and routes between Groq and local Ollama models.
 
-`YOLOv8` `Jetson` `XGBoost`
+`FastAPI` `Next.js` `LLM Agents`
 
 <br>
 </td>
@@ -48,11 +48,11 @@ CARLA-based driving sim with custom PPO environment — 87% collision reduction,
 <td width="50%" valign="top">
 <br>
 
-**▶ Plagiarism Detection RPA Bot**
+**▶ Wingman — AI Assistant Platform**
 
-End-to-end UiPath pipeline integrating Copyleaks API, automated scoring & email notifications.
+Multi-agent task/travel/document assistant rebuilt solo onto local Ollama models with RAG-based document Q&A.
 
-`UiPath` `RPA` `API Integration`
+`FastAPI` `Ollama` `RAG`
 
 <br>
 </td>
