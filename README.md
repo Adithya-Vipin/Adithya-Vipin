@@ -1,6 +1,10 @@
 <div align="center">
 
-![Banner](./banner.png)
+![Banner](./banner.gif)
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=600&lines=AI%2FML+Undergraduate;Reinforcement+Learning+%C2%B7+Edge+AI+%C2%B7+MLOps;IEEE+Co-Author%2C+2025" alt="Typing SVG" />
 
 </div>
 
@@ -95,6 +99,15 @@ Multi-agent task/travel/document assistant rebuilt solo onto local Ollama models
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Adithya-Vipin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&text_color=c9d1d9" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Adithya-Vipin&theme=dark&hide_border=true&background=0d1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" width="49%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- activates after the "Generate contribution snake" Action runs once — see setup notes -->
+<img src="https://raw.githubusercontent.com/Adithya-Vipin/Adithya-Vipin/output/snake-violet.svg" width="100%" alt="contribution snake" />
+
 </div>
 
 <br>
