@@ -169,15 +169,6 @@ Hackathon project rebuilt solo onto local Ollama models with a single chat inter
 
 <div align="center">
 
-<!-- activates after the "Generate contribution snake" Action runs once — see setup notes -->
-<img src="https://raw.githubusercontent.com/Adithya-Vipin/Adithya-Vipin/output/snake-violet.svg" width="100%" alt="contribution snake" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b0a3d?style=for-the-badge&logo=linkedin&logoColor=A371F7)](https://linkedin.com/in/adithya-vipin-7b6a44281)
